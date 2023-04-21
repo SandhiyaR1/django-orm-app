@@ -33,7 +33,11 @@ class StudentAdmin(admin.ModelAdmin):
     list_display=('name','age','email','referencenumber','bloog_group')
  ```
 # OUTPUT
+### Client Output 
 ![orm_5fields](https://user-images.githubusercontent.com/113497571/230269465-9dbdd617-d3ed-46bd-b94a-e3e32efb9b42.png)
+### Server Output
+![image](https://user-images.githubusercontent.com/113497571/233543257-750cce56-94fe-4157-801b-baed8155b86a.png)
+
 
 ## RESULT
 Thus,the project is developed to have Student Information Database.
